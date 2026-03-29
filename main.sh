@@ -563,7 +563,6 @@ app.listen(PORT, () => {
 });
 EOF
 
-fi
 echo -e "${GREEN}======================================${NC}"
 echo -e "${GREEN}Complete. Running web...${NC}"
 echo -e "${GREEN}======================================${NC}"
