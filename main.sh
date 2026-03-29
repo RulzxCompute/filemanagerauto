@@ -78,7 +78,7 @@ else
 fi
 
 echo -e "${YELLOW}Creating${NC}"
-cat > index.js << 'EOF'
+cat > indexflmnbyrulz.js << 'EOF'
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
@@ -569,4 +569,4 @@ echo -e "${GREEN}======================================${NC}"
 echo -e "${YELLOW}Server Running At http://localhost:3000${NC}"
 echo ""
 
-node server.js
+node indexflmnbyrulz.js
